@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. LU SUN'home on the web!
+I am an assistant professor with the School of Information Science and Technology at ShanghaiTech University, China. 
 
-bla bla.
+I received the B.S. degree in electrical engineering from Wuhan University, China, in 2009, the M.S. degree in electronic circuits and systems from Northeast Normal University, China, in 2013, and the Dr. Eng. degree in Information Engineering from Hokkaido University (Supervisor: Prof. Mineichi Kudo), in 2017. During 2017-2019, I worked as a postdoctoral research under the supervision of Prof. Hiroshi Mamitsuka at Kyoto University. In November 2019, I joined the faculty of ShanghaiTech University as a tenure-track assistant professor. My research interests cover machine learning and pattern recognition.
+
+Tel: +86-021-20684448
+
+Email: sunlu1@shanghaitech.edu.cn
+
+Office: Room 1C-403E, SIST, 393 Middle Huanxia Road, Pudong District, Shanghai 201210, China.
+
+Research interests: machine learning, patttern recognition, multi-view multi-task learning and multi-label classificaiton.
