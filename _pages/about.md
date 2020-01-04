@@ -14,6 +14,8 @@ I was born in September, 1985, in [Zhengzhou](https://en.wikipedia.org/wiki/Zhen
 
 **Email**: sunlu1@shanghaitech.edu.cn
 
+**URL**: http://sist.shanghaitech.edu.cn/sist_en/2018/0502/c3846a46562/page.htm
+
 **Office**: Room 1C-403E, SIST, 393 Middle Huanxia Road, Pudong District, Shanghai 201210, China.
 
 **Research interests**: machine learning, patttern recognition, multi-view multi-task learning and multi-label classificaiton.
