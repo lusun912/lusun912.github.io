@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Assistant Professor**
-School of Information Science and Technology
+
+**Assistant Professor** <br />
+School of Information Science and Technology <br />
 ShanghaiTech University
 
 **Email**: sunlu1@shanghaitech.edu.cn
