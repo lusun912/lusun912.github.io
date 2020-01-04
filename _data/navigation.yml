@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Research"
+    url: /research/  
 
   - title: "Talks"
     url: /talks/    
@@ -19,7 +22,7 @@ main:
     url: /cv/
     
   - title: "Position Opennings"
-    url: /position/
+    url: /positions/
     
   #- title: "Guide"
   #  url: /markdown/
