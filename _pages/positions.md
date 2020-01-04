@@ -14,8 +14,8 @@ Two postdoctoral researcher or research associate positions are available in my 
 
 Please send me your detailed curriculum vitae (including a list of publications and research experience) to:
 
-Dr. Lu Sun
-School of Information Science and Technology, ShanghaiTech University
+Dr. Lu Sun <br />
+School of Information Science and Technology, ShanghaiTech University <br />
 Email: sunlu1@shanghaitech.edu.cn
 
 **Graduate Student** <br />
