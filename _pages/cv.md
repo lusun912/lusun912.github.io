@@ -51,9 +51,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Optimization and Machine Learning (SI151), ShanghaiTech University, Spring 2020
+* Data Visualization, ShanghaiTech University, Autumn 2020
   
 Service and leadership
 ======
