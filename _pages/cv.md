@@ -54,6 +54,6 @@ Teaching
 * **Optimization and Machine Learning** (SI151), ShanghaiTech University, Spring 2020
 * **Data Visualization**, ShanghaiTech University, Autumn 2020
   
-Service and leadership
+<!---Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams--->
