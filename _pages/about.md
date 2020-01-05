@@ -16,4 +16,4 @@ I was born in September, 1985, in [Zhengzhou](https://en.wikipedia.org/wiki/Zhen
 
 **Office**: Room 1C-403E, SIST, 393 Middle Huanxia Road, Pudong District, Shanghai 201210, China.
 
-**Research interests**: Machine Learning, Patttern Recognition and Data Mining.
+**Research Interests**: Machine Learning, Patttern Recognition and Data Mining.
