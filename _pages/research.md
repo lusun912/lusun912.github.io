@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Multi-Label Classificaiton** 
-======
+**Multi-Label Classificaiton** <br />
 Unlike traditional single-label classification where each instance is associated with only one label,
 Multi-Label Classification (MLC) refers to the problems assigning multiple labels to a single test instance. 
 MLC can be seen in a wide range of real-world applications
@@ -27,11 +26,9 @@ a single image is probably associated with a set of semantic concepts, like "sky
 * **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Classification with Meta-Label-Specific Features", in Proceedings of the 23rd International Conference on Pattern Recognition (ICPR 2016), 1612-1617, 2016, Cancun, Mexico. <br />
 * **Lu Sun**, Mineichi Kudo and Keigo Kimura, "A Scalable Clustering-Based Local Multi-Label Classification Method", in Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016), 261-268, 2016, The Hague, Netherlands. <br />
 * **Lu Sun** and Mineichi Kudo, "Polytree-Augmented Classifier Chains for Multi-Label Classification", in Proceedings of the 24th International Joint Conference of Artificial Intelligence (IJCAI 2015), 3834-3840, 2015, Buenos Aires, Argentina. <br />
-* Keigo Kimura, **Lu Sun** and Mineichi Kudo, "MLC Toolbox: A MATLAB/OCTAVE Library for Multi-Label Classification", CoRR abs/1704.02592, 2017. (preprinted in arXiv)  <br />
+* Keigo Kimura, **Lu Sun** and Mineichi Kudo, "MLC Toolbox: A MATLAB/OCTAVE Library for Multi-Label Classification", CoRR abs/1704.02592, 2017. (preprinted in arXiv)  <br /> <br /> <br />
 
-
-**Multi-View Multi-Task Learning**
-======
+**Multi-View Multi-Task Learning** <br />
 Multi-View Multi-Task Learning (MVMTL) is an important and promising direction of Machine Learning, due to its flexibility in data representation and ubiquity in modern real-world applications. In MVMTL, each sample are represented by several feature sets collected from a variety of data sources/views, while targets/tasks are correlated with each other. A number of traditional Machine Learning problems and recently emerging real-world applications can be considered as MVMTL problems. For example, in web page classification, each web page has three feature sets (views): title, image and text, and possibly relates with multiple functional classes (tasks), like space explorer, JAXA and Ryugu, etc. To utilize the information among tasks and views, MVMTL learns related tasks together (task correlation) by fusing feature sets from different views (view consistency).
 
 **Publications**: <br />
