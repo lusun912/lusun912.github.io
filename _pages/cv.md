@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Wuhan University, 2009
-* M.S. in Electronic Circuits and Systems, Northeast Normal University, 2013
-* Ph.D in Computer Science, Hokkaido University, 2017
+* B.S. in Electrical Engineering, **Wuhan University**, 2009
+* M.S. in Electronic Circuits and Systems, **Northeast Normal University**, 2013
+* Ph.D in Computer Science, **Hokkaido University**, 2017
 
 Work experience
 ======
