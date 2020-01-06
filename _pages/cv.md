@@ -18,11 +18,11 @@ Education
 Work experience
 ======
 * Apr. 2017 -- Sept. 2017: Research Assistant
-  * Hokkaido University
+  * **Hokkaido University**
   * Supervisor: Professor [Shin-ichi Minato](http://www.lab2.kuis.kyoto-u.ac.jp/minato/index-e.html)
 
 * Oct. 2017 -- Nov. 2019: Postdoctoral Researcher
-  * Kyoto University
+  * **Kyoto University**
   * Supervisor: Professor [Hiroshi Mamitsuka](https://www.bic.kyoto-u.ac.jp/pathway/mami/)
 
 Publications
