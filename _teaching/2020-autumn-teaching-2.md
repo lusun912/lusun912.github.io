@@ -1,7 +1,7 @@
 ---
-title: "Data Visualization"
+title: "Database and Data Mining"
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/2020-autumn-teaching-1
 venue: "ShanghaiTech University, School of Information Science and Technology"
 date: 2020-09-10
