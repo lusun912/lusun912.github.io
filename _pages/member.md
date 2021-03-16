@@ -8,21 +8,23 @@ redirect_from:
 ---
 
 **Master's course** <br />
-M1 Jiachun Jin
-M1 Zhiwei Li
-M1 Zhanwang Mao
-M1 Jiankun Wang
+M1 Jiachun Jin <br />
+M1 Zhiwei Li <br />
+M1 Zhanwang Mao <br />
+M1 Jiankun Wang <br />
 
 **Bachelor's course** <br />
-B4 Zhaozheng Shen
-B4 Peifan Li
-B4 Xinyi Wang
-B4 Yang Ouyang
-B4 Weijia Li
+B4 Peifan Li <br />
+B4 Weijia Lin <br />
+B4 Yang Ouyang <br />
+B4 Zhaozheng Shen <br />
+B4 Xinyi Wang <br />
+
+
 
 **Research Associate** <br />
-Ruiqi Liu
-Yuyan Zhou
+Ruiqi Liu <br />
+Yuyan Zhou <br />
 
 
 <!---**Undergraduate Student** <br />--->
