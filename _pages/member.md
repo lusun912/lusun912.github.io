@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Group"
+title: "Pattern Recognition and Machine Learning Lab"
 permalink: /member/
 author_profile: true
 redirect_from:
