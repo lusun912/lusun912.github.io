@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 **Master's course** <br />
-M1 金 佳纯 (Jiachun Jin) jinjch <br /> 
+M1 金 佳纯 (Jiachun Jin) jinjch (Jointly supervised with Prof. Jie Zheng)<br />  
 M1 李 志伟 (Zhiwei Li) lizhw <br /> 
 M1 茅 展望 (Zhanwang Mao) maozhw <br /> 
 M1 王 剑坤 (Jiankun Wang) wangjk <br /> 
-M1 杨 慧 (Hui Yang) (Project-based) yanghui1 <br /> 
-M1 周 兵 (Bin Zhou) (Project-based) zhoubing <br /> 
+M1 杨 慧 (Hui Yang) yanghui1 (Project-based) <br /> 
+M1 周 兵 (Bin Zhou) zhoubing (Project-based) <br /> 
 
 **Bachelor's course** <br />
 B4 林 维嘉 (Weijia Lin) linwj <br /> 
