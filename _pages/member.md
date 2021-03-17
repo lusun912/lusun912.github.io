@@ -7,6 +7,13 @@ redirect_from:
   - /member
 ---
 
+**Princicpal Investigator** <br />
+孙 露 (Lu Sun) sunlu1
+
+**Research Associate** <br />
+刘 睿琪 (Ruiqi Liu) liurq <br /> 
+周 雨嫣 (Yuyan Zhou) zhouyy1 <br /> 
+
 **Master's course** <br />
 M1 金 佳纯 (Jiachun Jin) jinjch (Jointly supervised with Prof. [Jie Zheng](https://shanghaitechzhengjielab.github.io/Zhenglab.github.io/people.htm)) <br /> 
 M1 李 志伟 (Zhiwei Li) lizhw <br /> 
@@ -21,10 +28,6 @@ B4 李 沛繁 (Peifan Li) lipf <br />
 B4 欧阳 阳 (Yang Ouyang) ouyy <br /> 
 B4 沈 昭正 (Zhaozheng Shen) shenzhzh <br /> 
 B4 王 欣奕 (Xinyi Wang) wangxy6 <br /> 
-
-**Research Associate** <br />
-刘 睿琪 (Ruiqi Liu) liurq <br /> 
-周 雨嫣 (Yuyan Zhou) zhouyy1 <br /> 
 
 **Visiting Student** <br />
 江 佳欣 (Jiaxin Jiang) <br /> 
