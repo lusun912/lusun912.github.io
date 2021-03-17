@@ -8,23 +8,25 @@ redirect_from:
 ---
 
 **Master's course** <br />
-M1 Jiachun Jin <br />
-M1 Zhiwei Li <br />
-M1 Zhanwang Mao <br />
-M1 Jiankun Wang <br />
+M1 金 佳纯 (Jiachun Jin) <br />
+M1 李 志伟 (Zhiwei Li) <br />
+M1 茅 展望 (Zhanwang Mao) <br />
+M1 王 剑坤 (Jiankun Wang) <br />
+M1 杨 慧 (Hui Yang) <br />
+M1 周 兵 (Bin Zhou) <br />
 
 **Bachelor's course** <br />
-B4 Peifan Li <br />
-B4 Weijia Lin <br />
-B4 Yang Ouyang <br />
-B4 Zhaozheng Shen <br />
-B4 Xinyi Wang <br />
+B4 李 沛繁 (Peifan Li) <br />
+B4 林 维嘉 (Weijia Lin) <br />
+B4 欧阳 阳 (Yang Ouyang) <br />
+B4 沈 昭正 (Zhaozheng Shen) <br />
+B4 王 欣奕 (Xinyi Wang) <br />
 
 
 
 **Research Associate** <br />
-Ruiqi Liu <br />
-Yuyan Zhou <br />
+刘 睿琪 (Ruiqi Liu) <br />
+周 雨嫣 (Yuyan Zhou) <br />
 
 
 <!---**Undergraduate Student** <br />--->
