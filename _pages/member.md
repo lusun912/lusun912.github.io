@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Pattern Recognition and Machine Learning Lab"
+title: "Pattern Recognition and Machine Learning Laboratory"
 permalink: /member/
 author_profile: true
 redirect_from:
