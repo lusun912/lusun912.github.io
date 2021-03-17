@@ -8,23 +8,23 @@ redirect_from:
 ---
 
 **Master's course** <br />
-M1 金 佳纯 (Jiachun Jin) <br /> jinjch
-M1 李 志伟 (Zhiwei Li) <br /> lizhw
-M1 茅 展望 (Zhanwang Mao) <br /> maozhw
-M1 王 剑坤 (Jiankun Wang) <br /> wangjk
-M1 杨 慧 (Hui Yang) <br /> (Project-based) yanghui1
-M1 周 兵 (Bin Zhou) <br /> (Project-based) zhoubing
+M1 金 佳纯 (Jiachun Jin) jinjch <br /> 
+M1 李 志伟 (Zhiwei Li) lizhw <br /> 
+M1 茅 展望 (Zhanwang Mao) maozhw <br /> 
+M1 王 剑坤 (Jiankun Wang) wangjk <br /> 
+M1 杨 慧 (Hui Yang) (Project-based) yanghui1 <br /> 
+M1 周 兵 (Bin Zhou) (Project-based) zhoubing <br /> 
 
 **Bachelor's course** <br />
-B4 林 维嘉 (Weijia Lin) <br /> linwj
-B4 李 沛繁 (Peifan Li) <br /> lipf
-B4 欧阳 阳 (Yang Ouyang) <br /> ouyy
-B4 沈 昭正 (Zhaozheng Shen) <br /> shenzhzh
-B4 王 欣奕 (Xinyi Wang) <br /> wangxy6
+B4 林 维嘉 (Weijia Lin) linwj <br /> 
+B4 李 沛繁 (Peifan Li) lipf <br /> 
+B4 欧阳 阳 (Yang Ouyang) ouyy <br /> 
+B4 沈 昭正 (Zhaozheng Shen) shenzhzh <br /> 
+B4 王 欣奕 (Xinyi Wang) wangxy6 <br /> 
 
 **Research Associate** <br />
-刘 睿琪 (Ruiqi Liu) <br /> liurq
-周 雨嫣 (Yuyan Zhou) <br /> zhouyy1
+刘 睿琪 (Ruiqi Liu) liurq <br /> 
+周 雨嫣 (Yuyan Zhou) zhouyy1 <br /> 
 
 **Visiting Student** <br />
 江 佳欣 (Jiaxin Jiang) <br /> 
