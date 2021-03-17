@@ -30,8 +30,9 @@ B4 王 欣奕 (Xinyi Wang) <br /> wangxy6
 江 佳欣 (Jiaxin Jiang) <br /> 
 
 **Alumni** <br />
-袁 诺 (Nuo Yuan) <br /> (Tufts University, visiting student 2020.10-2021.2)
+袁 诺 (Nuo Yuan) (Tufts University, visiting student 2020.10-2021.2) <br /> 
 
+<br /> 
 The email address is {account name}@shanghaitech.edu.cn .
 
 <!---**Undergraduate Student** <br />--->
