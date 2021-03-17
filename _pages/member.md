@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Master's course** <br />
-M1 金 佳纯 (Jiachun Jin) jinjch (Jointly supervised with Prof. Jie Zheng)<br />  
+M1 金 佳纯 (Jiachun Jin) jinjch (Jointly supervised with Prof. [Jie Zheng](https://shanghaitechzhengjielab.github.io/Zhenglab.github.io/index.htm))<br />  
 M1 李 志伟 (Zhiwei Li) lizhw <br /> 
 M1 茅 展望 (Zhanwang Mao) maozhw <br /> 
 M1 王 剑坤 (Jiankun Wang) wangjk <br /> 
