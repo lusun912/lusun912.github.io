@@ -22,11 +22,11 @@ M1 王 欣奕 (Xinyi Wang) wangxy6 <br />
 M1 杨 子健 (Zijian Yang) yangzj <br /> 
 
 **Bachelor's course** <br />
+B4 李 思远 (Siyuan Li) lisy2 <br /> 
 B4 林 希越 (Xiyue Lin) linxy <br /> 
 B4 沈 宵伊 (Xiaoyi Shen) shenxy <br /> 
-B4 杨 博 (Bo Yang) yangbo3 <br /> 
-B4 李 思远 (Siyuan Li) lisy2 <br /> 
 B4 徐 嘉慧 (Jiahui Xu) xujh <br /> 
+B4 杨 博 (Bo Yang) yangbo3 <br /> 
 
 **Alumni** <br />
 袁 诺 (Nuo Yuan) (Tufts University, visiting student 2020.10-2021.2) <br /> 
