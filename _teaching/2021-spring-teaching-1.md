@@ -1,5 +1,5 @@
 ---
-title: "Optimization and Machine Learning"
+title: "SI151--Optimization and Machine Learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
