@@ -1,5 +1,5 @@
 ---
-title: "Database and Data Mining"
+title: "CS150--Database and Data Mining"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-autumn-teaching-1
