@@ -32,9 +32,9 @@ B4 杨 博 (Bo Yang) yangbo3 <br />
 **Alumni** <br />
 刘 睿琪 (Ruiqi Liu) (Research Associate: 2020.10-2021.6. Currently, Master's Student, Pennsylvania State University) <br /> 
 周 雨嫣 (Yuyan Zhou) (Research Associate: 2020.10-2021.6. Currently, Master's Student, University of Pennsylvania) <br /> 
-沈 昭正 (Zhaozheng Shen) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, University of Pennsylvania) <br />
 李 沛繁 (Peifan Li) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, Chinese Academy of Sciences) <br />
 欧阳 阳 (Yang Ouyang) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, ShanghaiTech University) <br />
+沈 昭正 (Zhaozheng Shen) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, University of Pennsylvania) <br />
 
 <br /> 
 The email address is {account name}@shanghaitech.edu.cn .
