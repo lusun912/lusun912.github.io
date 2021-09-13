@@ -25,16 +25,16 @@ M1 杨 子健 (Zijian Yang) yangzj <br />
 B4 李 思远 (Siyuan Li) lisy2 <br /> 
 B4 林 希越 (Xiyue Lin) linxy <br /> 
 B4 沈 宵伊 (Xiaoyi Shen) shenxy <br /> 
+B4 吴 晟烨 (Shengye Wu) wushy <br /> 
 B4 徐 嘉慧 (Jiahui Xu) xujh <br /> 
 B4 杨 博 (Bo Yang) yangbo3 <br /> 
 
 **Alumni** <br />
-袁 诺 (Nuo Yuan) (Tufts University, visiting student 2020.10-2021.2) <br /> 
-刘 睿琪 (Ruiqi Liu) (Pennsylvania State University, research associate 2020.10-2021.6) <br /> 
-周 雨嫣 (Yuyan Zhou) (University of Pennsylvania), research associate 2020.10-2021.6) <br /> 
-沈 昭正 (Zhaozheng Shen) (University of Pennsylvania), Bachelor's course student 2020.10-2021.6) <br />
-李 沛繁 (Peifan Li) (Chinese Academy of Sciences), Bachelor's course student 2020.10-2021.6) <br />
-欧阳 阳 (Yang Ouyang) (ShanghaiTech University), Bachelor's course student 2020.10-2021.6) <br />
+刘 睿琪 (Ruiqi Liu) (Research Associate: 2020.10-2021.6. Currently, Master's Student, Pennsylvania State University, ) <br /> 
+周 雨嫣 (Yuyan Zhou) (Research Associate: 2020.10-2021.6. Currently, Master's Student, University of Pennsylvania) <br /> 
+沈 昭正 (Zhaozheng Shen) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, University of Pennsylvania) <br />
+李 沛繁 (Peifan Li) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, Chinese Academy of Sciences) <br />
+欧阳 阳 (Yang Ouyang) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, ShanghaiTech University) <br />
 
 <br /> 
 The email address is {account name}@shanghaitech.edu.cn .
