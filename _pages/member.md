@@ -27,7 +27,6 @@ B4 林 希越 (Xiyue Lin) linxy <br />
 B4 沈 宵伊 (Xiaoyi Shen) shenxy <br /> 
 B4 吴 晟烨 (Shengye Wu) wushy <br /> 
 B4 徐 嘉慧 (Jiahui Xu) xujh <br /> 
-B4 杨 博 (Bo Yang) yangbo3 <br /> 
 
 **Alumni** <br />
 刘 睿琪 (Ruiqi Liu) (Research Associate: 2020.10-2021.6. Currently, Master's Student, Pennsylvania State University) <br /> 
