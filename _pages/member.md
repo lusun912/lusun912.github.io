@@ -23,7 +23,6 @@ M1 杨 子健 (Zijian Yang) yangzj <br />
 
 **Bachelor's course** <br />
 B4 李 思远 (Siyuan Li) lisy2 <br /> 
-B4 林 希越 (Xiyue Lin) linxy <br /> 
 B4 沈 宵伊 (Xiaoyi Shen) shenxy <br /> 
 B4 吴 晟烨 (Shengye Wu) wushy <br /> 
 B4 徐 嘉慧 (Jiahui Xu) xujh <br /> 
