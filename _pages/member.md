@@ -27,8 +27,6 @@ B4 沈 宵伊 (Xiaoyi Shen) shenxy <br />
 B4 吴 晟烨 (Shengye Wu) wushy <br /> 
 B4 徐 嘉慧 (Jiahui Xu) xujh <br /> 
 B3 费 卢欢 (Luhuan Fei) feilh <br />
-B3 屠 珈东 (Jiadong Tu) tujd <br />
-B3 杨 清宇 (Qingyu Yang) yangqy <br />
 
 **Alumni** <br />
 刘 睿琪 (Ruiqi Liu) (Research Associate: 2020.10-2021.6. Currently, Master's Student, Pennsylvania State University) <br /> 
