@@ -22,6 +22,7 @@ M1 王 欣奕 (Xinyi Wang) wangxy6 <br />
 M1 杨 子健 (Zijian Yang) yangzj <br /> 
 
 **Bachelor's course** <br />
+B4 高 韊贺 (Lanhe Gao) gaolh <br /> 
 B4 李 思远 (Siyuan Li) lisy2 <br /> 
 B4 宋 家和 (Jiahe Song) songjh <br /> 
 B4 吴 晟烨 (Shengye Wu) wushy <br /> 
