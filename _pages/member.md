@@ -25,6 +25,7 @@ M1 杨 子健 (Zijian Yang) yangzj <br />
 B4 高 韊贺 (Lanhe Gao) gaolh <br /> 
 B4 李 思远 (Siyuan Li) lisy2 <br /> 
 B4 宋 家和 (Jiahe Song) songjh <br /> 
+B4 王 金泽 (Jinze Wang) wangjz <br /> 
 B4 吴 晟烨 (Shengye Wu) wushy <br /> 
 B4 徐 嘉慧 (Jiahui Xu) xujh <br /> 
 B3 费 卢欢 (Luhuan Fei) feilh <br />
