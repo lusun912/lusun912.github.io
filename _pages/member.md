@@ -30,15 +30,15 @@ B4 费 卢欢 (Luhuan Fei) feilh <br />
 吴 晟烨 (Shengye Wu) wushy <br /> 
 
 **Alumni** <br />
+高 韊贺 (Lanhe Gao) (Bachelor's Student: 2021.10-2022.6.) <br /> 
+李 思远 (Siyuan Li) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Duke University) <br /> 
+宋 家和 (Jiahe Song) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Peking University) <br /> 
+王 金泽 (Jinze Wang) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, University of Pennsylvania) <br /> 
 刘 睿琪 (Ruiqi Liu) (Research Associate: 2020.10-2021.6. Currently, Master's Student, Pennsylvania State University) <br /> 
 周 雨嫣 (Yuyan Zhou) (Research Associate: 2020.10-2021.6. Currently, Master's Student, University of Pennsylvania) <br /> 
 李 沛繁 (Peifan Li) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, Chinese Academy of Sciences) <br />
 欧阳 阳 (Yang Ouyang) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, ShanghaiTech University) <br />
 沈 昭正 (Zhaozheng Shen) (Bachelor's Student: 2020.10-2021.6. Currently, Master's Student, University of Pennsylvania) <br />
-高 韊贺 (Lanhe Gao) (Bachelor's Student: 2021.10-2022.6.) <br /> 
-李 思远 (Siyuan Li) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Duke University) <br /> 
-宋 家和 (Jiahe Song) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Peking University) <br /> 
-王 金泽 (Jinze Wang) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, University of Pennsylvania) <br /> 
 
 <br /> 
 The email address is {account name}@shanghaitech.edu.cn .
