@@ -27,6 +27,10 @@ Work experience
 
 Publications
 ======
+* Jiankun Wang and **Lu Sun**, "Multi-Task Personalized Learning with Sparse Network Lasso", in Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI 2022), 3516-3522, 2022, Vienna, Austria. <br />
+* Mineichi Kudo, Keigo Kimura, Shumpei Morishita and **Lu Sun**, "Efficient Leave-One-Out Evaluation of Kernelized Implicit Mappings", in Proceedings of the joint IAPR International Workshops on Structural and Syntactic Pattern Recognition and Statistical Techniques in Pattern Recognition (S+SSPR 2022), 2022, Montreal, Canada. <br />
+* Shumpei Morishita, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Realization of Autoencoders by Kernel Methods", in Proceedings of the joint IAPR International Workshops on Structural and Syntactic Pattern Recognition and Statistical Techniques in Pattern Recognition (S+SSPR 2022), 2022, Montreal, Canada. <br />
+* Keigo Kimura, Jiaqi Bao, Mineichi Kudo and **Lu Sun**, "Retargeted Regression Methods for Multi-Label Learning", in Proceedings of the joint IAPR International Workshops on Structural and Syntactic Pattern Recognition and Statistical Techniques in Pattern Recognition (S+SSPR 2022), 2022, Montreal, Canada. <br />
 * **Lu Sun**, Canh Hao Nguyen, Hiroshi Mamitsuka, "Fast and Robust Multi-View Multi-Task Learning via Group Sparsity", in Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019), 3499-3505, 2019, Macao, China. <br />
 * **Lu Sun**, Canh Hao Nguyen, Hiroshi Mamitsuka, "Multiplicative Sparse Feature Decomposition for Efficient Multi-View Multi-Task Learning", in Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019), 3506-3512, 2019, Macao, China. <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
