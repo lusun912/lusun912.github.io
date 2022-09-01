@@ -20,6 +20,7 @@ a single image is probably associated with a set of semantic concepts, like "sky
 "field", "building", etc.  
 
 **Publications**: <br />
+* Keigo Kimura, Jiaqi Bao, Mineichi Kudo and **Lu Sun**, "Retargeted Regression Methods for Multi-Label Learning", in Proceedings of the joint IAPR International Workshops on Structural and Syntactic Pattern Recognition and Statistical Techniques in Pattern Recognition (S+SSPR 2022), 2022, Montreal, Canada. <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
 * **Lu Sun** and Mineichi Kudo, "Optimization of Classifier Chains via Conditional Likelihood Maximization", Pattern Recognition, 74: 503-517, 2018. DOI:10.1016/j.patcog.2017.09.034 <br />
 * **Lu Sun**, Mineichi Kudo and Keigo Kimura, "READER: Robust Semi-Supervised Multi-Label Dimension Reduction", IEICE Transactions on Information and Systems, E100-D(10): 2597-2604, 2017. DOI:10.1587/transinf.2017EDP7184 <br />
@@ -32,5 +33,6 @@ a single image is probably associated with a set of semantic concepts, like "sky
 Multi-View Multi-Task Learning (MVMTL) is an important and promising direction of Machine Learning, due to its flexibility in data representation and ubiquity in modern real-world applications. In MVMTL, each sample are represented by several feature sets collected from a variety of data sources/views, while targets/tasks are correlated with each other. A number of traditional Machine Learning problems and recently emerging real-world applications can be considered as MVMTL problems. For example, in web page classification, each web page has three feature sets (views): title, image and text, and possibly relates with multiple functional classes (tasks), like space explorer, JAXA and Ryugu, etc. To utilize the information among tasks and views, MVMTL learns related tasks together (task correlation) by fusing feature sets from different views (view consistency).
 
 **Publications**: <br />
+* Jiankun Wang and **Lu Sun**, "Multi-Task Personalized Learning with Sparse Network Lasso", in Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI 2022), 3516-3522, 2022, Vienna, Austria. <br />
 * **Lu Sun**, Canh Hao Nguyen, Hiroshi Mamitsuka, "Fast and Robust Multi-View Multi-Task Learning via Group Sparsity", in Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019), 3499-3505, 2019, Macao, China. <br />
 * **Lu Sun**, Canh Hao Nguyen, Hiroshi Mamitsuka, "Multiplicative Sparse Feature Decomposition for Efficient Multi-View Multi-Task Learning", in Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019), 3506-3512, 2019, Macao, China.
