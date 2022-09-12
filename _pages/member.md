@@ -15,13 +15,13 @@ M3 金 佳纯 (Jiachun Jin) jinjch (Jointly supervised with Prof. [Jie Zheng](ht
 M3 李 志伟 (Zhiwei Li) lizhw <br /> 
 M3 茅 展望 (Zhanwang Mao) maozhw <br /> 
 M3 王 剑坤 (Jiankun Wang) wangjk <br /> 
-M3 杨 慧 (Hui Yang) yanghui1 (Project-based) <br /> 
+M3 杨 惠 (Hui Yang) yanghui1 (Project-based) <br /> 
 M3 周 兵 (Bin Zhou) zhoubing (Project-based) <br /> 
 M2 林 维嘉 (Weijia Lin) linwj <br /> 
 M2 王 欣奕 (Xinyi Wang) wangxy6 <br /> 
 M2 杨 子健 (Zijian Yang) yangzj <br /> 
 M1 卞 珂 (Ke Bian) bianke2022 <br /> 
-M1 徐 嘉慧 (Jiahui Xu) xujh <br /> 
+M1 徐 嘉慧 (Jiahui Xu) xujh2022 <br /> 
 
 **Bachelor's course** <br />
 B4 费 卢欢 (Luhuan Fei) feilh <br />
