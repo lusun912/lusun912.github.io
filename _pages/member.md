@@ -31,7 +31,7 @@ B3 曹 天笑 (Tianxiao Cao) caotx <br />
 
 **Alumni** <br />
 吴 晟烨 (Shengye Wu) (Research Associat: 2022.10-2023.2) <br />
-高 韊贺 (Lanhe Gao) (Bachelor's Student: 2021.10-2022.6.) <br /> 
+高 韊贺 (Lanhe Gao) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Nanyang Technological University) <br /> 
 李 思远 (Siyuan Li) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Duke University) <br /> 
 宋 家和 (Jiahe Song) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Peking University) <br /> 
 王 金泽 (Jinze Wang) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, University of Pennsylvania) <br /> 
