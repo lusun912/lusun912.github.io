@@ -27,6 +27,7 @@ Work experience
 
 Publications
 ======
+* Songjie Xie, Youlong Wu, Kewen Liao, Lu Chen, Chengfei Liu, Haifeng Shen, MingJian Tang, **Lu Sun**, "Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data", in Proceedings of the 39th IEEE International Conference on Data Engineering (ICDE 2023), 2023, Anaheim, California, USA. <br />
 * Jiankun Wang and **Lu Sun**, "Multi-Task Personalized Learning with Sparse Network Lasso", in Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI 2022), 3516-3522, 2022, Vienna, Austria. <br />
 * Mineichi Kudo, Keigo Kimura, Shumpei Morishita and **Lu Sun**, "Efficient Leave-One-Out Evaluation of Kernelized Implicit Mappings", in Proceedings of the joint IAPR International Workshops on Structural and Syntactic Pattern Recognition and Statistical Techniques in Pattern Recognition (S+SSPR 2022), 2022, Montreal, Canada. <br />
 * Shumpei Morishita, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Realization of Autoencoders by Kernel Methods", in Proceedings of the joint IAPR International Workshops on Structural and Syntactic Pattern Recognition and Statistical Techniques in Pattern Recognition (S+SSPR 2022), 2022, Montreal, Canada. <br />
