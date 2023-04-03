@@ -28,9 +28,11 @@ B4 费 卢欢 (Luhuan Fei) feilh <br />
 B4 江 辰皓 (Chenhao Jiang) jiangchh1 <br />
 B4 李 欣妮 (Xinni Li) lixn <br />
 B3 曹 天笑 (Tianxiao Cao) caotx <br />
+B3 邵 元明	(Yuanming Shao) shaoym1 <br />
+B3 文 杰	(Jie Wen) wenjie <br />
 
 **Alumni** <br />
-吴 晟烨 (Shengye Wu) (Research Associat: 2022.10-2023.2) <br />
+吴 晟烨 (Shengye Wu) (Bachelor's Student: 2021.10-2022.6; Research Associat: 2022.10-2023.2) <br />
 高 韊贺 (Lanhe Gao) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Nanyang Technological University) <br /> 
 李 思远 (Siyuan Li) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Duke University) <br /> 
 宋 家和 (Jiahe Song) (Bachelor's Student: 2021.10-2022.6. Currently, Master's Student, Peking University) <br /> 
