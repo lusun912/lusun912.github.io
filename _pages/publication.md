@@ -9,7 +9,7 @@ redirect_from:
 
 
 **Conference papers** <br />
-* Zijian Yang, Zhiwei Li and **Lu Sun**, "Generalized Discriminative Deep Non-Negative Matrix Factorization Based on Latent Feature and Basis Learning", in Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023), 2022, Macao, China. <br />
+* Zijian Yang, Zhiwei Li and **Lu Sun**, "Generalized Discriminative Deep Non-Negative Matrix Factorization Based on Latent Feature and Basis Learning", in Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023), 2023, Macao, China. <br />
 * Songjie Xie, Youlong Wu, Kewen Liao, Lu Chen, Chengfei Liu, Haifeng Shen, MingJian Tang, **Lu Sun**, "Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data", in Proceedings of the 39th IEEE International Conference on Data Engineering (ICDE 2023), 2023, Anaheim, California, USA. <br />
 * Jiankun Wang and **Lu Sun**, "Multi-Task Personalized Learning with Sparse Network Lasso", in Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI 2022), 3516-3522, 2022, Vienna, Austria. <br />
 * Mineichi Kudo, Keigo Kimura, Shumpei Morishita and **Lu Sun**, "Efficient Leave-One-Out Evaluation of Kernelized Implicit Mappings", in Proceedings of the joint IAPR International Workshops on Structural and Syntactic Pattern Recognition and Statistical Techniques in Pattern Recognition (S+SSPR 2022), 2022, Montreal, Canada. <br />
