@@ -12,7 +12,7 @@ redirect_from:
 PRML Lab Members | 
 :--------------------------------------------------:|
 ![](/images/prml_lab.jpg) |
-*2023.5.14 at Mount Putuo <br /> Front row: Jiahui Xu (徐 嘉慧), Ke Bian (卞 珂), Luhuan Fei (费 卢欢), Hui Yang (杨 惠), Zijian Yang (杨 子健), Zhiwei Li (李 志伟)  <br /> Back row: Jiachun Jin (金 佳纯), Lu Sun (孙 露), Zhanwang Mao (茅 展望), Bin Zhou (周 兵), Xinyi Wang (王 欣奕), Weijia Lin (林 维嘉), Jiankun Wang (王 剑坤)* | 
+*2023.5.14 at Mount Putuo <br /> Back row: Jiachun Jin (金 佳纯), Lu Sun (孙 露), Zhanwang Mao (茅 展望), Bin Zhou (周 兵), Xinyi Wang (王 欣奕), Weijia Lin (林 维嘉), Jiankun Wang (王 剑坤) <br /> Front row: Jiahui Xu (徐 嘉慧), Ke Bian (卞 珂), Luhuan Fei (费 卢欢), Hui Yang (杨 惠), Zijian Yang (杨 子健), Zhiwei Li (李 志伟)* | 
 
 My Hokudai & Sapporo |  My Hokudai & Sapporo
 :-------------------------:|:-------------------------:
@@ -27,4 +27,4 @@ My Hokudai & Sapporo |  My Hokudai & Sapporo
 My Hokudai & Sapporo |  My Hokudai & Sapporo
 :-------------------------:|:-------------------------:
 ![](/images/hokudai_autumn1.jpg)  |  ![](/images/hokudai_autumn2.jpg)
-*2019.10.23 at Hokudai* |  *2019.9.23 at Hokudai* 
+*2019.9.23 at Hokudai* |  *2019.9.23 at Hokudai* 
