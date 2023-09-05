@@ -12,7 +12,7 @@ redirect_from:
 PRML Lab Members | 
 :--------------------------------------------------:|
 ![](/images/prml_lab.jpg) |
-*2023.5.14 at Putuo Mountain*
+*2023.5.14 at Putuo Mountain* | 
 
 My Hokudai & Sapporo |  My Hokudai & Sapporo
 :-------------------------:|:-------------------------:
