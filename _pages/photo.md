@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Favorite Pictures"
+# title: "Favorite Pictures"
 permalink: /pictures/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-PRML Lab Members
-:--------------------------------------------------:
-![](/images/prml_lab.jpg) 
+PRML Lab Members | 
+:--------------------------------------------------:|
+![](/images/prml_lab.jpg) |
 *2023.5.14 at Putuo Mountain*
 
 My Hokudai & Sapporo |  My Hokudai & Sapporo
