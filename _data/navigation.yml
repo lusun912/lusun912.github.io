@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research Group"
+  - title: "Members"
     url: /member/
   
   - title: "Publications"
@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/   
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
