@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-PRML Lab Members (2023.5.14 at Putuo Mountain)
+PRML Lab Members
 :--------------------------------------------------:
 ![](/images/prml_lab.jpg) 
+*2023.5.14 at Putuo Mountain*
 
 My Hokudai & Sapporo |  My Hokudai & Sapporo
 :-------------------------:|:-------------------------:
