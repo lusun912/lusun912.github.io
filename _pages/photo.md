@@ -12,9 +12,7 @@ redirect_from:
 PRML Lab Members | 
 :--------------------------------------------------:|
 ![](/images/prml_lab.jpg) |
-*2023.5.14 at Mount Putuo
-<br /> Front row: Jiahui Xu, Ke Bian, Luhuan Fei, Hui Yang, Zijian Yang, Zhiwei Li 
-<br /> Back row: Jiachun Jin, Lu Sun, Zhanwang Mao, Bin Zhou, Xinyi Wang, Weijia Lin, Jiankun Wang* | 
+*2023.5.14 at Mount Putuo <br /> Front row: Jiahui Xu, Ke Bian, Luhuan Fei, Hui Yang, Zijian Yang, Zhiwei Li  <br /> Back row: Jiachun Jin, Lu Sun, Zhanwang Mao, Bin Zhou, Xinyi Wang, Weijia Lin, Jiankun Wang* | 
 
 My Hokudai & Sapporo |  My Hokudai & Sapporo
 :-------------------------:|:-------------------------:
