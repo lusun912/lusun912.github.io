@@ -14,10 +14,10 @@ PRML Lab Members (2023.5.14 at Putuo Mountain)
 ![](/images/prml_lab.jpg) 
 
 My Hokudai & Sapporo
-:--------------------------------------------------:
+:-------------------------:|:-------------------------:
 ![](/images/hokudai_winter1.jpg)  |  ![](/images/hokudai_winter2.jpg)
 
-:--------------------------------------------------:
+:-------------------------:|:-------------------------:
 ![](/images/sapporo.jpg)  |  ![](/images/hokudai_summer.jpg)
 
 
