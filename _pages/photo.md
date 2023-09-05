@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](/images/ocean1.jpg)  |  ![](/images/ocean2.jpg)
+PRML Lab Members (2023.5.14 at Putuo Mountain)
+:--------------------------------------------------:
+![](/images/prml_lab.jpg) 
+
+My Hokudai & Sapporo
+:--------------------------------------------------:
+![](/images/hokudai_winter1.jpg)  |  ![](/images/hokudai_winter2.jpg)
+
+:--------------------------------------------------:
+![](/images/sapporo.jpg)  |  ![](/images/hokudai_summer.jpg)
 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
