@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Favorite Pictures"
+title: "Favorite Pictures"
 permalink: /pictures/
 author_profile: true
 redirect_from:
