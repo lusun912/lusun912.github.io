@@ -12,3 +12,8 @@ redirect_from:
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](/images/ocean1.jpg)  |  ![](/images/ocean2.jpg)
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
