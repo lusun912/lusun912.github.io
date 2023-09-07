@@ -14,6 +14,6 @@ I was born in September, 1985, in [Zhengzhou](https://en.wikipedia.org/wiki/Zhen
 
 **Email**: sunlu1@shanghaitech.edu.cn
 
-**Address**: Room 1A-304A, SIST Building, No.393 Middle Huanxia Road, Pudong District, Shanghai 201210, China.
+**Address**: Room 1A-304A, SIST Building, No.393 Middle Huaxia Road, Pudong District, Shanghai 201210, China.
 
 **Research Interests**: Machine Learning, Pattern Recognition and Data Mining.
