@@ -18,7 +18,7 @@ M3 王 欣奕 (Xinyi Wang) wangxy6 <br />
 M3 杨 子健 (Zijian Yang) yangzj <br /> 
 M2 卞 珂 (Ke Bian) bianke2022 <br /> 
 M2 徐 嘉慧 (Jiahui Xu) xujh2022 <br /> 
-M1 费 卢欢 (Luhuan Fei) feilh <br />
+M1 费 卢欢 (Luhuan Fei) feilh2023 <br />
 
 **Bachelor's course** <br />
 B4 曹 天笑 (Tianxiao Cao) caotx <br />
