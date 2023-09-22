@@ -23,7 +23,8 @@ M1 费 卢欢 (Luhuan Fei) feilh2023 <br />
 **Bachelor's course** <br />
 B4 曹 天笑 (Tianxiao Cao) caotx <br />
 B4 邵 元明	(Yuanming Shao) shaoym1 <br />
-B4 文 杰	(Jie Wen) wenjie <br />
+B4 文 杰 (Jie Wen) wenjie <br />
+B4 郑 昊煜 (Haoyu Zheng) zhenghy <br />
 
 **Research Associate** <br />
 李 志伟 (Zhiwei Li) lizhw <br /> 
