@@ -24,6 +24,8 @@ M1 费 卢欢 (Luhuan FEI) feilh2023 <br />
 B4 曹 天笑 (Tianxiao CAO) caotx <br />
 B4 邵 元明	(Yuanming SHAO) shaoym1 <br />
 B4 文 杰 (Jie WEN) wenjie <br />
+B4 吴 隽蕾 (Juanlei WU) wujl <br />
+B4 赵 怡雯 (Yiwen ZHAO) zhaoyw <br />
 B4 郑 昊煜 (Haoyu ZHENG) zhenghy <br />
 
 **Research Associate** <br />
