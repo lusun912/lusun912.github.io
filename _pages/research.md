@@ -34,7 +34,7 @@ a single image is probably associated with a set of semantic concepts, like "sky
 **Publications**: <br />
 * Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization
 ", in Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM 2023), 2023, Shanghai, China. <br />
-* Haruhi Mizuguchi, Keigo Kimura,  Mineichi Kudo and **Lu Sun**, "Partial Multi-label Learning with a Few Accurately Labeled Datahas", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 2023, Jakarta, Indonesia. <br />
+* Haruhi Mizuguchi, Keigo Kimura,  Mineichi Kudo and **Lu Sun**, "Partial Multi-label Learning with a Few Accurately Labeled Data", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 2023, Jakarta, Indonesia. <br />
 * Zhiwei Li, Zijian Yang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Incomplete Multi-View Weak-Label Learning with Noisy Features and Imbalanced Labels", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 2023, Jakarta, Indonesia. <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
 * **Lu Sun** and Mineichi Kudo, "Optimization of Classifier Chains via Conditional Likelihood Maximization", Pattern Recognition, 74: 503-517, 2018. DOI:10.1016/j.patcog.2017.09.034 <br />
