@@ -28,9 +28,6 @@ B4 吴 隽蕾 (Juanlei WU) wujl <br />
 B4 赵 怡雯 (Yiwen ZHAO) zhaoyw <br />
 B4 郑 昊煜 (Haoyu ZHENG) zhenghy <br />
 
-**Research Associate** <br />
-李 志伟 (Zhiwei LI) lizhw <br /> 
-
 **Alumni** <br />
 李 志伟 (Zhiwei LI) (Master's Student: 2020.9-2023.6; Research Associate: 2023.7-2023.11. -> PhD Student, University of Technology Sydney) <br />
 王 剑坤 (Jiankun WANG) (Master's Student: 2020.9-2023.6. -> PhD Student, Michigan State University) <br />
