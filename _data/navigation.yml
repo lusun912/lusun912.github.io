@@ -24,8 +24,8 @@ main:
   #- title: "CV"
   #  url: /cv/
     
-  - title: "Position Opennings"
-    url: /positions/
+  #- title: "Position Opennings"
+  #  url: /positions/
     
   - title: "Favorite Pictures"
     url: /pictures/
