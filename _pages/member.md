@@ -7,7 +7,7 @@ redirect_from:
   - /member
 ---
 
-**Princicpal Investigator** <br />
+**Principal Investigator** <br />
 孙 露 (Lu SUN) sunlu1
 
 **Master's course** <br />
