@@ -7,16 +7,16 @@ redirect_from:
   - /publication
 ---
 
-**Journal papers** <br />
+**Peer-Reviewed Journal papers** <br />
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, accepted, 2024. <br />
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145(2024: 2023 online). <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
 * **Lu Sun** and Mineichi Kudo, "Optimization of Classifier Chains via Conditional Likelihood Maximization", Pattern Recognition, 74: 503-517, 2018. DOI:10.1016/j.patcog.2017.09.034 <br />
 * **Lu Sun**, Mineichi Kudo and Keigo Kimura, "READER: Robust Semi-Supervised Multi-Label Dimension Reduction", IEICE Transactions on Information and Systems, E100-D(10): 2597-2604, 2017. DOI:10.1587/transinf.2017EDP7184 <br />
 * Jipeng Huang, **Lu Sun**, Shuang Qiao and Jianing Sun, "Novel Fast License Plate Location Method Based on Hierarchical Strategy", Journal of Jilin University, 45(2): 639-644, 2015. (in Chinese) DOI:10.13229/j.cnki.jdxbgxb201502045 <br />
-* **Lu Sun** and Shuang Qiao, "A Novel Method for Fast License Plate Location under Complex Environments", Journal of Northeast Normal University, 45(2): 96- 100, 2013. (in Chinese) <br />
+# * **Lu Sun** and Shuang Qiao, "A Novel Method for Fast License Plate Location under Complex Environments", Journal of Northeast Normal University, 45(2): 96- 100, 2013. (in Chinese) <br />
 
-**Conference papers** <br />
+**Peer-Reviewed Conference papers** <br />
 * Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization
 ", in Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM 2023), accepted, 2023, Shanghai, China. <br />
 * Haruhi Mizuguchi, Keigo Kimura,  Mineichi Kudo and **Lu Sun**, "Partial Multi-label Learning with a Few Accurately Labeled Data", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 79-90, 2023, Jakarta, Indonesia. <br />
