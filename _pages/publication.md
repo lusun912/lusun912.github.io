@@ -7,7 +7,7 @@ redirect_from:
   - /publication
 ---
 
-**Peer-Reviewed Journal papers** <br />
+**Peer-Reviewed Journal Papers** <br />
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, accepted, 2024. <br />
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145(2024: 2023 online). <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
@@ -17,7 +17,7 @@ redirect_from:
 <!--- * **Lu Sun** and Shuang Qiao, "A Novel Method for Fast License Plate Location under Complex Environments", Journal of Northeast Normal University, 45(2): 96- 100, 2013. (in Chinese) <br />
 -->
 
-**Peer-Reviewed Conference papers** <br />
+**Peer-Reviewed Conference Papers** <br />
 * Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization
 ", in Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM 2023), accepted, 2023, Shanghai, China. <br />
 * Haruhi Mizuguchi, Keigo Kimura,  Mineichi Kudo and **Lu Sun**, "Partial Multi-label Learning with a Few Accurately Labeled Data", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 79-90, 2023, Jakarta, Indonesia. <br />
@@ -41,5 +41,5 @@ redirect_from:
 * Keigo Kimura, Mineichi Kudo and **Lu Sun**, "Dimension Reduction Using Nonnegative Matrix Tri-Factorization in Multi-label Classification", in Proceedings of the 21st International Conference on Parallel & Distributed Processing Techniques & Applications: Workshop on Mathematical Modeling and Problem Solving (PDPTA 2015), 250-255, 2015, Las Vegas, USA. <br />
 * **Lu Sun** and Mineichi Kudo, "Polytree-Augmented Classifier Chains for Multi-Label Classification", in Proceedings of the 24th International Joint Conference of Artificial Intelligence (IJCAI 2015), 3834-3840, 2015, Buenos Aires, Argentina. <br />
 
-**Pre-prints** <br />
+**Pre-Prints** <br />
 * Keigo Kimura, **Lu Sun** and Mineichi Kudo, "MLC Toolbox: A MATLAB/OCTAVE Library for Multi-Label Classification", CoRR abs/1704.02592, 2017. (preprinted in arXiv)
