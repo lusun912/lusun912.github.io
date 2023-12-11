@@ -10,7 +10,7 @@ redirect_from:
 
 **Conference papers** <br />
 * Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization
-", in Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM 2023), 2023, Shanghai, China. <br />
+", in Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM 2023), accepted, 2023, Shanghai, China. <br />
 * Haruhi Mizuguchi, Keigo Kimura,  Mineichi Kudo and **Lu Sun**, "Partial Multi-label Learning with a Few Accurately Labeled Data", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 79-90, 2023, Jakarta, Indonesia. <br />
 * Zhiwei Li, Zijian Yang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Incomplete Multi-View Weak-Label Learning with Noisy Features and Imbalanced Labels", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 124-130, 2023, Jakarta, Indonesia. <br />
 * Luhuan Fei, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Structured Sparse Multi-Task Learning with Generalized Group Lasso", in Proceedings of the 26th European Conference on Artificial Intelligence (ECAI 2023), 692-699, 2023, Krakow, Poland. <br />
