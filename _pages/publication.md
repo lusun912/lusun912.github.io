@@ -33,7 +33,7 @@ redirect_from:
 * **Lu Sun** and Mineichi Kudo, "Polytree-Augmented Classifier Chains for Multi-Label Classification", in Proceedings of the 24th International Joint Conference of Artificial Intelligence (IJCAI 2015), 3834-3840, 2015, Buenos Aires, Argentina. <br />
 
 **Journal papers** <br />
-* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and Lu Sun, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, accepted, 2024. <br />
+* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, accepted, 2024. <br />
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145(2024: 2023 online). <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
 * **Lu Sun** and Mineichi Kudo, "Optimization of Classifier Chains via Conditional Likelihood Maximization", Pattern Recognition, 74: 503-517, 2018. DOI:10.1016/j.patcog.2017.09.034 <br />
