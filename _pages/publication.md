@@ -7,6 +7,14 @@ redirect_from:
   - /publication
 ---
 
+**Journal papers** <br />
+* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, accepted, 2024. <br />
+* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145(2024: 2023 online). <br />
+* **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
+* **Lu Sun** and Mineichi Kudo, "Optimization of Classifier Chains via Conditional Likelihood Maximization", Pattern Recognition, 74: 503-517, 2018. DOI:10.1016/j.patcog.2017.09.034 <br />
+* **Lu Sun**, Mineichi Kudo and Keigo Kimura, "READER: Robust Semi-Supervised Multi-Label Dimension Reduction", IEICE Transactions on Information and Systems, E100-D(10): 2597-2604, 2017. DOI:10.1587/transinf.2017EDP7184 <br />
+* Jipeng Huang, **Lu Sun**, Shuang Qiao and Jianing Sun, "Novel Fast License Plate Location Method Based on Hierarchical Strategy", Journal of Jilin University, 45(2): 639-644, 2015. (in Chinese) DOI:10.13229/j.cnki.jdxbgxb201502045 <br />
+* **Lu Sun** and Shuang Qiao, "A Novel Method for Fast License Plate Location under Complex Environments", Journal of Northeast Normal University, 45(2): 96- 100, 2013. (in Chinese) <br />
 
 **Conference papers** <br />
 * Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization
@@ -31,15 +39,6 @@ redirect_from:
 * **Lu Sun**, Mineichi Kudo and Keigo Kimura, "A Scalable Clustering-Based Local Multi-Label Classification Method", in Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016), 261-268, 2016, The Hague, Netherlands. <br />
 * Keigo Kimura, Mineichi Kudo and **Lu Sun**, "Dimension Reduction Using Nonnegative Matrix Tri-Factorization in Multi-label Classification", in Proceedings of the 21st International Conference on Parallel & Distributed Processing Techniques & Applications: Workshop on Mathematical Modeling and Problem Solving (PDPTA 2015), 250-255, 2015, Las Vegas, USA. <br />
 * **Lu Sun** and Mineichi Kudo, "Polytree-Augmented Classifier Chains for Multi-Label Classification", in Proceedings of the 24th International Joint Conference of Artificial Intelligence (IJCAI 2015), 3834-3840, 2015, Buenos Aires, Argentina. <br />
-
-**Journal papers** <br />
-* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, accepted, 2024. <br />
-* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145(2024: 2023 online). <br />
-* **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
-* **Lu Sun** and Mineichi Kudo, "Optimization of Classifier Chains via Conditional Likelihood Maximization", Pattern Recognition, 74: 503-517, 2018. DOI:10.1016/j.patcog.2017.09.034 <br />
-* **Lu Sun**, Mineichi Kudo and Keigo Kimura, "READER: Robust Semi-Supervised Multi-Label Dimension Reduction", IEICE Transactions on Information and Systems, E100-D(10): 2597-2604, 2017. DOI:10.1587/transinf.2017EDP7184 <br />
-* Jipeng Huang, **Lu Sun**, Shuang Qiao and Jianing Sun, "Novel Fast License Plate Location Method Based on Hierarchical Strategy", Journal of Jilin University, 45(2): 639-644, 2015. (in Chinese) DOI:10.13229/j.cnki.jdxbgxb201502045 <br />
-* **Lu Sun** and Shuang Qiao, "A Novel Method for Fast License Plate Location under Complex Environments", Journal of Northeast Normal University, 45(2): 96- 100, 2013. (in Chinese) <br />
 
 **Pre-prints** <br />
 * Keigo Kimura, **Lu Sun** and Mineichi Kudo, "MLC Toolbox: A MATLAB/OCTAVE Library for Multi-Label Classification", CoRR abs/1704.02592, 2017. (preprinted in arXiv)
