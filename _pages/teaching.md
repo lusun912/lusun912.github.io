@@ -13,7 +13,7 @@ redirect_from:
 2022 Spring, 2023 Spring, 2023 Fall
 
 **CS150A–Database** <br />
-2021 Fall, 2022 Fall
+2021 Fall, 2022 Fall, 2024 Spring
 
 **CS150–Database and Data Mining** <br />
 2020 Fall
