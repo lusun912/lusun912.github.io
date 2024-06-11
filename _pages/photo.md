@@ -26,8 +26,3 @@ My Hokudai & Sapporo |  My Hokudai & Sapporo
 :-------------------------:|:-------------------------:
 ![](/images/sapporo.jpg)  |  ![](/images/hokudai_summer.jpg)
 *2017.7.23 at Mount Moiwa* |  *2017.9.24 at Hokudai* 
-
-My Hokudai & Sapporo |  My Hokudai & Sapporo
-:-------------------------:|:-------------------------:
-![](/images/hokudai_autumn1.jpg)  |  ![](/images/hokudai_autumn2.jpg)
-*2019.9.23 at Hokudai* |  *2019.9.23 at Hokudai* 
