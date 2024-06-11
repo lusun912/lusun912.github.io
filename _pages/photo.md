@@ -12,7 +12,7 @@ redirect_from:
 PRML Lab Members | 
 :--------------------------------------------------:|
 ![](/images/prml_lab_2024.jpg) |
-*2024.6.7 at Anshan Ancient Trail <br />: Lu Sun (孙 露), Jiachun Jin (金 佳纯), Zhanwang Mao (茅 展望),  Weijia Lin (林 维嘉), Jiahui Xu (徐 嘉慧), Zijian Yang (杨 子健), Xinyi Wang (王 欣奕), Tianxiao Cao (曹 天笑), Ke Bian (卞 珂), Luhuan Fei (费 卢欢)* | 
+*2024.6.7 at Anshan Ancient Trail <br /> Lu Sun (孙 露), Jiachun Jin (金 佳纯), Zhanwang Mao (茅 展望),  Weijia Lin (林 维嘉), Jiahui Xu (徐 嘉慧), Zijian Yang (杨 子健), Xinyi Wang (王 欣奕), Tianxiao Cao (曹 天笑), Ke Bian (卞 珂), Luhuan Fei (费 卢欢)* | 
 :--------------------------------------------------:|
 ![](/images/prml_lab.jpg) |
 *2023.5.14 at Mount Putuo <br /> Back row: Jiachun Jin (金 佳纯), Lu Sun (孙 露), Zhanwang Mao (茅 展望), Bin Zhou (周 兵), Xinyi Wang (王 欣奕), Weijia Lin (林 维嘉), Jiankun Wang (王 剑坤) <br /> Front row: Jiahui Xu (徐 嘉慧), Ke Bian (卞 珂), Luhuan Fei (费 卢欢), Hui Yang (杨 惠), Zijian Yang (杨 子健), Zhiwei Li (李 志伟)* | 
