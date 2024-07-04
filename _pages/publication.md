@@ -18,6 +18,7 @@ redirect_from:
 -->
 
 **Peer-Reviewed Conference Papers** <br />
+* Ke Bian, **Lu Sun** and Dengji Zhao, "Learning Compact Neural Networks via Generalized Structured Sparsity", in Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024), accepted, 2024, Santiago de Compostela, Spain. <br />
 * Tianxiao Cao, **Lu Sun**, Canh Hao Nguyen and Hiroshi Mamitsuka, "Learning Low-Rank Tensor Cores with Probabilistic ℓ0-Regularized Rank Selection for Model Compression", in Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024), accepted, 2024, Jeju, Korea. <br />
 * Jiahui Xu, **Lu Sun** and Dengji Zhao, "MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation", in Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), accepted, 2024, Washington D.C., USA. <br />
 * Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization", in Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM 2023), 398-407, 2023, Shanghai, China. <br />
