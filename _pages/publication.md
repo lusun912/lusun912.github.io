@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 **Peer-Reviewed Journal Papers** <br />
-* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, accepted, 2024. <br />
-* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145(2024: 2023 online). <br />
+* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, 27:25, 2024. DOI: 10.1007/s10044-024-01233-8 <br />
+* Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145, 2024. DOI: 10.1016/j.patcog.2023.109894 <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
 * **Lu Sun** and Mineichi Kudo, "Optimization of Classifier Chains via Conditional Likelihood Maximization", Pattern Recognition, 74: 503-517, 2018. DOI:10.1016/j.patcog.2017.09.034 <br />
 * **Lu Sun**, Mineichi Kudo and Keigo Kimura, "READER: Robust Semi-Supervised Multi-Label Dimension Reduction", IEICE Transactions on Information and Systems, E100-D(10): 2597-2604, 2017. DOI:10.1587/transinf.2017EDP7184 <br />
@@ -20,7 +20,7 @@ redirect_from:
 **Peer-Reviewed Conference Papers** <br />
 * Ke Bian, **Lu Sun** and Dengji Zhao, "Learning Compact Neural Networks via Generalized Structured Sparsity", in Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024), accepted, 2024, Santiago de Compostela, Spain. <br />
 * Tianxiao Cao, **Lu Sun**, Canh Hao Nguyen and Hiroshi Mamitsuka, "Learning Low-Rank Tensor Cores with Probabilistic ℓ0-Regularized Rank Selection for Model Compression", in Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024), accepted, 2024, Jeju, Korea. <br />
-* Jiahui Xu, **Lu Sun** and Dengji Zhao, "MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation", in Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), accepted, 2024, Washington D.C., USA. <br />
+* Jiahui Xu, **Lu Sun** and Dengji Zhao, "MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation", in Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), 2527-2531, 2024, Washington D.C., USA. <br />
 * Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization", in Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM 2023), 398-407, 2023, Shanghai, China. <br />
 * Haruhi Mizuguchi, Keigo Kimura,  Mineichi Kudo and **Lu Sun**, "Partial Multi-label Learning with a Few Accurately Labeled Data", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 79-90, 2023, Jakarta, Indonesia. <br />
 * Zhiwei Li, Zijian Yang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Incomplete Multi-View Weak-Label Learning with Noisy Features and Imbalanced Labels", in Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2023), 124-130, 2023, Jakarta, Indonesia. <br />
