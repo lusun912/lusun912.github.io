@@ -11,22 +11,20 @@ redirect_from:
 孙 露 (Lu SUN) sunlu1
 
 **Master's course** <br />
-M3 金 佳纯 (Jiachun JIN) jinjch <br /> 
-M3 茅 展望 (Zhanwang MAO) maozhw <br /> 
-M3 林 维嘉 (Weijia LIN) linwj <br /> 
-M3 王 欣奕 (Xinyi WANG) wangxy6 <br /> 
-M3 杨 子健 (Zijian YANG) yangzj <br /> 
-M2 卞 珂 (Ke BIAN) bianke2022 <br /> 
-M2 徐 嘉慧 (Jiahui XU) xujh2022 <br /> 
-M1 费 卢欢 (Luhuan FEI) feilh2023 <br />
-
-**Bachelor's course** <br />
-B4 曹 天笑 (Tianxiao CAO) caotx <br />
-B4 邵 元明	(Yuanming SHAO) shaoym1 <br />
-B4 吴 隽蕾 (Juanlei WU) wujl <br />
-B4 赵 怡雯 (Yiwen ZHAO) zhaoyw <br />
+M3 卞 珂 (Ke BIAN) bianke2022 <br /> 
+M3 徐 嘉慧 (Jiahui XU) xujh2022 <br /> 
 
 **Alumni** <br />
+金 佳纯 (Jiachun JIN) (Master's Student: 2020.9-2024.6. -> Research Associate, Shanghai Jiao Tong University) <br /> 
+茅 展望 (Zhanwang MAO) (Master's Student: 2020.9-2024.6. -> Zhejiang Luqiao Rural Commercial Bank) <br /> 
+林 维嘉 (Weijia LIN) (Master's Student: 2021.9-2024.6. -> Shanghai Unclear Engineering R&D Institute) <br /> 
+王 欣奕 (Xinyi WANG) (Master's Student: 2021.9-2024.6. -> Hikvision) <br /> 
+杨 子健 (Zijian YANG) (Master's Student: 2021.9-2024.6. -> Shanghai Tobacco Machinery Co., Ltd.)  <br /> 
+费 卢欢 (Luhuan FEI) (Bachelor's Student: 2022.6-2023.6; Master's Student, : 2023.9-2024.7. -> Master's Student, ShanghaiTech University) <br /> 
+曹 天笑 (Tianxiao CAO) (Bachelor's Student: 2023.6-2024.6. -> Master's Student, Kyoto University) <br />
+邵 元明	(Yuanming SHAO) (Bachelor's Student: 2023.10-2024.6. -> Master's Student, University of Pennsylvania) <br />
+吴 隽蕾 (Juanlei WU) (Bachelor's Student: 2023.10-2024.6. -> Master's Student, ShanghaiTech University) <br />
+赵 怡雯 (Yiwen ZHAO) (Bachelor's Student: 2023.10-2024.6. -> Yangtze Memory Technology Corp) <br />
 李 志伟 (Zhiwei LI) (Master's Student: 2020.9-2023.6; Research Associate: 2023.7-2023.11. -> PhD Student, University of Technology Sydney) <br />
 王 剑坤 (Jiankun WANG) (Master's Student: 2020.9-2023.6. -> PhD Student, Michigan State University) <br />
 杨 惠 (Hui YANG) (Master's Student: 2020.9-2023.6. -> PhD Student, Westlake University) <br />
