@@ -21,13 +21,13 @@ M3 徐 嘉慧 (Jiahui XU) xujh2022 <br />
 王 欣奕 (Xinyi WANG) (Master's Student: 2021.9-2024.6. -> Hikvision) <br /> 
 杨 子健 (Zijian YANG) (Master's Student: 2021.9-2024.6. -> Shanghai Tobacco Machinery Co., Ltd.)  <br /> 
 费 卢欢 (Luhuan FEI) (Bachelor's Student: 2022.6-2023.6; Master's Student, : 2023.9-2024.7. -> Master's Student, ShanghaiTech University) <br /> 
-曹 天笑 (Tianxiao CAO) (Bachelor's Student: 2023.6-2024.6. -> Master's Student, Kyoto University) <br />
+曹 天笑 (Tianxiao CAO) (Bachelor's Student: 2023.1-2024.6. -> Master's Student, Kyoto University) <br />
 邵 元明	(Yuanming SHAO) (Bachelor's Student: 2023.10-2024.6. -> Master's Student, University of Pennsylvania) <br />
 吴 隽蕾 (Juanlei WU) (Bachelor's Student: 2023.10-2024.6. -> Master's Student, ShanghaiTech University) <br />
 赵 怡雯 (Yiwen ZHAO) (Bachelor's Student: 2023.10-2024.6. -> Yangtze Memory Technology Corp) <br />
 李 志伟 (Zhiwei LI) (Master's Student: 2020.9-2023.6; Research Associate: 2023.7-2023.11. -> PhD Student, University of Technology Sydney) <br />
 王 剑坤 (Jiankun WANG) (Master's Student: 2020.9-2023.6. -> PhD Student, Michigan State University) <br />
-杨 惠 (Hui YANG) (Master's Student: 2020.9-2023.6. -> PhD Student, Westlake University) <br />
+杨 惠 (Hui YANG) (Master's Student: 2020.9-2023.6. -> Research Associate, Westlake University) <br />
 周 兵 (Bin ZHOU) (Master's Student: 2020.9-2023.6. -> iFlytek) <br />
 李 欣妮 (Xinni LI) (Bachelor's Student: 2022.10-2023.6. -> Master's Student, Georgia Institute of Technology) <br />
 江 辰皓 (Chenhao JIANG) (Bachelor's Student: 2022.10-2023.6. -> Master's Student, New York University) <br />
