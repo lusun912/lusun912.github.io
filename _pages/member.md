@@ -11,8 +11,8 @@ redirect_from:
 孙 露 (Lu SUN) sunlu1
 
 **Master's course** <br />
-M3 卞 珂 (Ke BIAN) bianke2022 <br /> 
-M3 徐 嘉慧 (Jiahui XU) xujh2022 <br /> 
+M2 卞 珂 (Ke BIAN) bianke2022 <br /> 
+M2 徐 嘉慧 (Jiahui XU) xujh2022 <br /> 
 
 **Alumni** <br />
 金 佳纯 (Jiachun JIN) (Master's Student: 2020.9-2024.6. -> Research Associate, Shanghai Jiao Tong University) <br /> 
