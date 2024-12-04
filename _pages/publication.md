@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 **Peer-Reviewed Journal Papers** <br />
+* Jiankun Wang, Luhuan Fei and **Lu Sun**, Multi-level network Lasso for multi-task personalized learning, Pattern Recognition, available online, 2024 <br /> 
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, 27:25, 2024. DOI: 10.1007/s10044-024-01233-8 <br />
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145, 2024. DOI: 10.1016/j.patcog.2023.109894 <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
