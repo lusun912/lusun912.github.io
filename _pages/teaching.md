@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching at ShanghaiTech"
 permalink: /teaching/
 author_profile: true
 redirect_from:
