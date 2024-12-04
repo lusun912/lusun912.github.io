@@ -1,26 +1,21 @@
 ---
 layout: archive
-title: "Pattern Recognition and Machine Learning Laboratory"
+title: "Alumni of PRML Lab at ShanghaiTech University"
 permalink: /member/
 author_profile: true
 redirect_from:
   - /member
 ---
 
-**Principal Investigator** <br />
-孙 露 (Lu SUN) sunlu1
-
-**Master's course** <br />
-M2 卞 珂 (Ke BIAN) bianke2022 <br /> 
-M2 徐 嘉慧 (Jiahui XU) xujh2022 <br /> 
-
-**Alumni** <br />
+**Alumni at ShanghaiTech** <br />
+卞 珂 (Ke BIAN) (Master's Student: 2022.9-2024.10. -> Master's Student, ShanghaiTech University) <br /> 
+徐 嘉慧 (Jiahui XU) (Bachelor's Student: 2021.6-2022.6; Master's Student: 2022.9-2024.10. -> Master's Student, ShanghaiTech University) <br /> 
 金 佳纯 (Jiachun JIN) (Master's Student: 2020.9-2024.6. -> Research Associate, Shanghai Jiao Tong University) <br /> 
 茅 展望 (Zhanwang MAO) (Master's Student: 2020.9-2024.6. -> Zhejiang Luqiao Rural Commercial Bank) <br /> 
 林 维嘉 (Weijia LIN) (Master's Student: 2021.9-2024.6. -> Shanghai Unclear Engineering R&D Institute) <br /> 
 王 欣奕 (Xinyi WANG) (Master's Student: 2021.9-2024.6. -> Hikvision) <br /> 
 杨 子健 (Zijian YANG) (Master's Student: 2021.9-2024.6. -> Shanghai Tobacco Machinery Co., Ltd.)  <br /> 
-费 卢欢 (Luhuan FEI) (Bachelor's Student: 2022.6-2023.6; Master's Student, : 2023.9-2024.7. -> Master's Student, ShanghaiTech University) <br /> 
+费 卢欢 (Luhuan FEI) (Bachelor's Student: 2022.6-2023.6; Master's Student: 2023.9-2024.7. -> Master's Student, ShanghaiTech University) <br /> 
 曹 天笑 (Tianxiao CAO) (Bachelor's Student: 2023.1-2024.6. -> Master's Student, Kyoto University) <br />
 邵 元明	(Yuanming SHAO) (Bachelor's Student: 2023.10-2024.6. -> Master's Student, University of Pennsylvania) <br />
 吴 隽蕾 (Juanlei WU) (Bachelor's Student: 2023.10-2024.6. -> Master's Student, ShanghaiTech University) <br />
@@ -41,8 +36,5 @@ M2 徐 嘉慧 (Jiahui XU) xujh2022 <br />
 李 沛繁 (Peifan LI) (Bachelor's Student: 2020.10-2021.6. -> Master's Student, Chinese Academy of Sciences) <br />
 欧阳 阳 (Yang OUYANG) (Bachelor's Student: 2020.10-2021.6. -> Master's Student, ShanghaiTech University) <br />
 沈 昭正 (Zhaozheng SHEN) (Bachelor's Student: 2020.10-2021.6. -> Master's Student, University of Pennsylvania) <br />
-
-<br /> 
-The email address is {account name}@shanghaitech.edu.cn .
 
 <!---**Undergraduate Student** <br />--->
