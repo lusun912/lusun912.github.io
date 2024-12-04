@@ -16,4 +16,4 @@ I was born in September, 1985, in [Zhengzhou](https://en.wikipedia.org/wiki/Zhen
 
 **Address**: E-905, West #8 bldg., 2-12-1, Ookayama, Meguro, Tokyo, 152-8550, Japan
 
-**Research Interests**: Machine Learning and Data Mining.
+**Research Interests**: Efficient and Interpretable Machine Learning.
