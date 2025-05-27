@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Introduction to Drug Discovery Informatics** <br />
-2025 Spring (Part-Time), Kyoto University <br />
+2025 Spring, Kyoto University (Part-Time Lecturer) <br />
 Lecture topic: Interpretable and Efficient Machine Learning
 
 **CS182–Introduction to Machine Learning** <br />
