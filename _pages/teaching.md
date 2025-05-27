@@ -11,7 +11,7 @@ redirect_from:
 
 **Introduction to Drug Discovery Informatics** <br />
 2025 Spring, Kyoto University <br />
-Lecture topic: Interpretable and Efficient AI Computing
+Lecture topic: Interpretable and Efficient Machine Learning
 
 **CS182–Introduction to Machine Learning** <br />
 2022 Spring, 2023 Spring, 2023 Fall, ShanghaiTech University
