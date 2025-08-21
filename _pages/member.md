@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 **Alumni at ShanghaiTech** <br />
-卞 珂 (Ke BIAN) (Master's Student: 2022.9-2024.10. -> Master's Student, ShanghaiTech University) <br /> 
-徐 嘉慧 (Jiahui XU) (Bachelor's Student: 2021.6-2022.6; Master's Student: 2022.9-2024.10. -> Master's Student, ShanghaiTech University) <br /> 
+卞 珂 (Ke BIAN) (Master's Student: 2022.9-2025.6. -> Meituan, Shanghai) <br /> 
+徐 嘉慧 (Jiahui XU) (Bachelor's Student: 2021.6-2022.6; Master's Student: 2022.9-2025.6. -> Kuaishou Technology, Beijing) <br /> 
 金 佳纯 (Jiachun JIN) (Master's Student: 2020.9-2024.6. -> Research Associate, Shanghai Jiao Tong University) <br /> 
 茅 展望 (Zhanwang MAO) (Master's Student: 2020.9-2024.6. -> Zhejiang Luqiao Rural Commercial Bank) <br /> 
 林 维嘉 (Weijia LIN) (Master's Student: 2021.9-2024.6. -> Shanghai Unclear Engineering R&D Institute) <br /> 
