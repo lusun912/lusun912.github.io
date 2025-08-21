@@ -13,7 +13,7 @@ redirect_from:
 金 佳纯 (Jiachun JIN) (Master's Student: 2020.9-2024.6. -> Research Associate, Shanghai Jiao Tong University) <br /> 
 茅 展望 (Zhanwang MAO) (Master's Student: 2020.9-2024.6. -> Zhejiang Luqiao Rural Commercial Bank) <br /> 
 林 维嘉 (Weijia LIN) (Master's Student: 2021.9-2024.6. -> Shanghai Unclear Engineering R&D Institute) <br /> 
-王 欣奕 (Xinyi WANG) (Master's Student: 2021.9-2024.6. -> Hikvision) <br /> 
+王 欣奕 (Xinyi WANG) (Master's Student: 2021.9-2024.6. -> Hikvision, Shanghai) <br /> 
 杨 子健 (Zijian YANG) (Master's Student: 2021.9-2024.6. -> Shanghai Tobacco Machinery Co., Ltd.)  <br /> 
 费 卢欢 (Luhuan FEI) (Bachelor's Student: 2022.6-2023.6; Master's Student: 2023.9-2024.7. -> Master's Student, ShanghaiTech University) <br /> 
 曹 天笑 (Tianxiao CAO) (Bachelor's Student: 2023.1-2024.6. -> Master's Student, Kyoto University) <br />
