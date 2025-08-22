@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Peer-Reviewed Journal Papers** <br />
-* Luhuan Fei, Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, Multi-View Multi-Label Personalized Classification via Generalized Exclusive Sparse Tensor Factorization. Knowledge and Information Systems, accepted, 2025 <br />
+* Luhuan Fei, Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, Multi-View Multi-Label Personalized Classification via Generalized Exclusive Sparse Tensor Factorization. Knowledge and Information Systems, 2025. DOI: 10.1007/s10115-025-02449-8 <br />
 * Luhuan Fei, Xinyi Wang, Jiankun Wang, **Lu Sun** and Yuyao Zhang, Multi-Level Sparse Network Lasso: Locally Sparse Learning with Flexible Sample Clusters. NeuroComputing, 2025. DOI: 10.1016/j.neucom.2025.129898 <br />
 * Zhanwang Mao, **Lu Sun** and Youlong Wu, Robust Multi-View Subspace Clustering with Missing Data by Aligning Nonlinear Manifolds, Pattern Recognition, 2024. DOI: 10.1016/j.patcog.2024.111280 <br /> 
 * Jiankun Wang, Luhuan Fei and **Lu Sun**, Multi-level network Lasso for multi-task personalized learning, Pattern Recognition, 2024. DOI: 10.1016/j.patcog.2024.111213 <br /> 
@@ -22,7 +22,7 @@ redirect_from:
 -->
 
 **Peer-Reviewed Conference Papers** <br />
-* Ke Bian, **Lu Sun** and Dengji Zhao, "Learning Compact Neural Networks via Generalized Structured Sparsity", in Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024), accepted, 2024, Santiago de Compostela, Spain. <br />
+* Ke Bian, **Lu Sun** and Dengji Zhao, "Learning Compact Neural Networks via Generalized Structured Sparsity", in Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024), 2024, Santiago de Compostela, Spain. <br />
 * Tianxiao Cao, **Lu Sun**, Canh Hao Nguyen and Hiroshi Mamitsuka, "Learning Low-Rank Tensor Cores with Probabilistic ℓ0-Regularized Rank Selection for Model Compression", in Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024), accepted, 2024, Jeju, Korea. <br />
 * Jiahui Xu, **Lu Sun** and Dengji Zhao, "MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation", in Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), 2527-2531, 2024, Washington D.C., USA. <br />
 * Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization", in Proceedings of the 23rd IEEE International Conference on Data Mining (ICDM 2023), 398-407, 2023, Shanghai, China. <br />
