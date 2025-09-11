@@ -10,8 +10,8 @@ redirect_from:
 **Peer-Reviewed Journal Papers** <br />
 * Luhuan Fei, Weijia Lin, Jiankun Wang, **Lu Sun**, Mineichi Kudo and Keigo Kimura, Multi-View Multi-Label Personalized Classification via Generalized Exclusive Sparse Tensor Factorization. Knowledge and Information Systems, 2025. DOI: 10.1007/s10115-025-02449-8 <br />
 * Luhuan Fei, Xinyi Wang, Jiankun Wang, **Lu Sun** and Yuyao Zhang, Multi-Level Sparse Network Lasso: Locally Sparse Learning with Flexible Sample Clusters. NeuroComputing, 2025. DOI: 10.1016/j.neucom.2025.129898 <br />
-* Zhanwang Mao, **Lu Sun** and Youlong Wu, Robust Multi-View Subspace Clustering with Missing Data by Aligning Nonlinear Manifolds, Pattern Recognition, 2024. DOI: 10.1016/j.patcog.2024.111280 <br /> 
-* Jiankun Wang, Luhuan Fei and **Lu Sun**, Multi-level network Lasso for multi-task personalized learning, Pattern Recognition, 2024. DOI: 10.1016/j.patcog.2024.111213 <br /> 
+* Zhanwang Mao, **Lu Sun** and Youlong Wu, Robust Multi-View Subspace Clustering with Missing Data by Aligning Nonlinear Manifolds, Pattern Recognition, 2025. DOI: 10.1016/j.patcog.2024.111280 <br /> 
+* Jiankun Wang, Luhuan Fei and **Lu Sun**, Multi-level network Lasso for multi-task personalized learning, Pattern Recognition, 2025. DOI: 10.1016/j.patcog.2024.111213 <br /> 
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, Redirected Transfer Learning for Robust Multi-Layer Subspace Learning, Pattern Analysis and Applications, 27:25, 2024. DOI: 10.1007/s10044-024-01233-8 <br />
 * Jiaqi Bao, Mineichi Kudo, Keigo Kimura and **Lu Sun**, "Robust embedding regression for semi-supervised learning", Pattern Recognition, 145, 2024. DOI: 10.1016/j.patcog.2023.109894 <br />
 * **Lu Sun** and Mineichi Kudo, "Multi-Label Classification by Polytree-Augmented Classifier Chains with Label-Dependent Features", Pattern Analysis and Applications, 22(3), 1029-1049, 2019. DOI:10.1007/s10044-018-0711-6 <br />
