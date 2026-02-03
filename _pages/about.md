@@ -19,10 +19,11 @@ My research focuses on **efficient and interpretable machine learning**.
 
 ## Professional Experience
 - **Associate Professor**, Tohoku University, Japan (Feb. 2026 – Present)  
-  Unprecedented-scale Data Analytics Center
+  [Unprecedented-scale Data Analytics Center](https://udac.tohoku.ac.jp/)
 - **Research Scientist**, RIKEN AIP, Japan (Nov. 2024 – Jan. 2026)  
   [AI Security and Privacy Team](https://www.riken.jp/en/research/labs/aip/ai_soc/ai_sec_privacy/index.html)
 - **Assistant Professor**, ShanghaiTech University, China (Nov. 2019 – Sep. 2024)
+  [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/)
 - **Postdoctoral Researcher**, Kyoto University, Japan (Oct. 2017 – Oct. 2019)  
   Supervisor: Prof. [Hiroshi Mamitsuka](https://www.bic.kyoto-u.ac.jp/pathway/mami/)
 
@@ -34,5 +35,3 @@ Room 408, Resilient Society Innovation Center
 Tohoku University  
 468-1 Aramaki Aza Aoba, Aoba-ku  
 Sendai 980-0845, Japan  
-
-**Research Interests**: Efficient and Interpretable Machine Learning
