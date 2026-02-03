@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/), and a special researcher at [Institute of Science Tokyo](https://www.isct.ac.jp/en) (formerly Tokyo Tech), Japan.
+I am currently an **Associate Professor** at [Tohoku University](https://www.tohoku.ac.jp/en/), Japan.  
+My research focuses on **efficient and interpretable machine learning**.
 
-I was born in September, 1985, in [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou), China. I received the B.S. degree in electrical engineering from Wuhan University, China, in 2009, the M.S. degree in electronic circuits and systems from Northeast Normal University, China, in 2013, and the Dr. Eng. degree in Information Engineering from Hokkaido University (Supervisor: Prof. [Mineichi Kudo](https://researchmap.jp/read0166594)), in 2017. During 2017-2019, I worked as a postdoctoral researcher under the supervision of Prof. [Hiroshi Mamitsuka](https://www.bic.kyoto-u.ac.jp/pathway/mami/) at Kyoto University. During 2019-2024, I worked as an assistant professor at ShanghaiTech University. In November 2024, I joined RIKEN AIP as a research scientist in the [AI Security and Privacy Team](https://www.riken.jp/en/research/labs/aip/ai_soc/ai_sec_privacy/index.html) .
+## Education
+- **Dr. Eng. in Information Engineering**, Hokkaido University, Japan, Sep. 2017  
+  Supervisor: Prof. [Mineichi Kudo](https://researchmap.jp/read0166594)
+- **M.S. in Electronic Circuits and Systems**, Northeast Normal University, China, Jun. 2013
+- **B.S. in Electrical Engineering**, Wuhan University, China, Jun. 2009
 
-**Email**: lu.sun@riken.jp
+## Professional Experience
+- **Associate Professor**, Tohoku University, Japan (Feb. 2026 – Present)  
+  Unprecedented-scale Data Analytics Center
+- **Research Scientist**, RIKEN AIP, Japan (Nov. 2024 – Jan. 2026)  
+  [AI Security and Privacy Team](https://www.riken.jp/en/research/labs/aip/ai_soc/ai_sec_privacy/index.html)
+- **Assistant Professor**, ShanghaiTech University, China (Nov. 2019 – Sep. 2024)
+- **Postdoctoral Researcher**, Kyoto University, Japan (Oct. 2017 – Oct. 2019)  
+  Supervisor: Prof. [Hiroshi Mamitsuka](https://www.bic.kyoto-u.ac.jp/pathway/mami/)
 
-**Address**: E-905, West #8 bldg., 2-12-1, Ookayama, Meguro, Tokyo, 152-8550, Japan
+## Contact
+**Email**: lu.sun.e4@tohoku.ac.jp  
 
-**Research Interests**: Efficient and Interpretable Machine Learning.
+**Address**:  
+Room 408, Resilient Society Innovation Center  
+Tohoku University  
+468-1 Aramaki Aza Aoba, Aoba-ku  
+Sendai 980-0845, Japan  
+
+**Research Interests**: Efficient and Interpretable Machine Learning
