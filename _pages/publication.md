@@ -22,6 +22,7 @@ redirect_from:
 -->
 
 **Peer-Reviewed Conference Papers** <br />
+* **Lu Sun** and Jun Sakuma, "Learning Semi-Structured Sparsity for LLMs via Shared and Context-Aware Hypernetwork", in Proceedings of The 14th International Conference on Learning Representations (ICLR 2026), 2026, Rio de Janeiro, Brazil. (To appear) <br />
 * Ke Bian, **Lu Sun** and Dengji Zhao, "Learning Compact Neural Networks via Generalized Structured Sparsity", in Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024), 2024, Santiago de Compostela, Spain. <br />
 * Tianxiao Cao, **Lu Sun**, Canh Hao Nguyen and Hiroshi Mamitsuka, "Learning Low-Rank Tensor Cores with Probabilistic ℓ0-Regularized Rank Selection for Model Compression", in Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024), 3780-3788, 2024, Jeju, Korea. <br />
 * Jiahui Xu, **Lu Sun** and Dengji Zhao, "MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation", in Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), 2527-2531, 2024, Washington D.C., USA. <br />
