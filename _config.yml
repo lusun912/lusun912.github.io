@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lu SUN 孙 露"
 title_separator          : "-"
 name                     : &name "Lu SUN"
-description              : &description "Research Scientist at RIKEN AIP"
+description              : &description "Associate Professor at Tohoku University"
 url                      : https://lusun912.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lusun912.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lu SUN 孙 露"
   avatar           : "Lu_Sun.jpg"
-  bio              : "Research Scientist at RIKEN AIP"
+  bio              : "Associate Professor at Tohoku University"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
