@@ -20,4 +20,5 @@ Tohoku University
 468-1 Aramaki Aza Aoba, Aoba-ku  
 Sendai 980-0845, Japan  
 
-**Research Interests**: Efficient and Interpretable Machine Learning, AI for Science.
+**Research Interests**: 
+Efficient and Interpretable Machine Learning, AI for Science.
