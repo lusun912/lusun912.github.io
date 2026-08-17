@@ -22,7 +22,9 @@ redirect_from:
 -->
 
 **Peer-Reviewed Conference Papers** <br />
-* **Lu Sun** and Jun Sakuma, "Learning Local Feature Masks with Variational Information Bottleneck", in Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026), 2026, Bremen, Germany. (To appear) <br />
+* **Lu Sun**, Jiayang Liu and Rui Wen, "GRES: Correlation-Aware One-Shot Pruning of LLMs across Granularities", in Proceedings of the IEEE International Conference on Data Mining (ICDM 2026), 2026, Shenyang, China. (To appear) <br />
+* **Lu Sun**, Rui Wen, Jiayang Liu and Jun Sakuma, "Input-Adaptive Depth Routing in Pretrained Large Language Models with Mixture of Layers", in Proceedings of the IEEE International Conference on Data Mining (ICDM 2026), 2026, Shenyang, China. (To appear) <br />
+* **Lu Sun** and Jun Sakuma, "Learning Local Feature Masks with Variational Information Bottleneck", in Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026), 2026, Bremen, Germany. <br />
 * **Lu Sun** and Jun Sakuma, "Learning Semi-Structured Sparsity for LLMs via Shared and Context-Aware Hypernetwork", in Proceedings of The 14th International Conference on Learning Representations (ICLR 2026), 2026, Rio de Janeiro, Brazil. <br />
 * Ke Bian, **Lu Sun** and Dengji Zhao, "Learning Compact Neural Networks via Generalized Structured Sparsity", in Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024), 2024, Santiago de Compostela, Spain. <br />
 * Tianxiao Cao, **Lu Sun**, Canh Hao Nguyen and Hiroshi Mamitsuka, "Learning Low-Rank Tensor Cores with Probabilistic ℓ0-Regularized Rank Selection for Model Compression", in Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024), 3780-3788, 2024, Jeju, Korea. <br />
