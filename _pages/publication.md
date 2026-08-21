@@ -22,6 +22,7 @@ redirect_from:
 -->
 
 **Peer-Reviewed Conference Papers** <br />
+* Rui Wen, **Lu Sun**, Jiayang Liu, Zesheng Xu, Tianshuo Cong, and Zheng Li , "The Benchmark Illusion: Pruned LLMs Can Pass Multiple Choice but Fail to Answer", in Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), 2026, Budapest, Hungary. (To appear) <br />
 * **Lu Sun**, Jiayang Liu and Rui Wen, "GRES: Correlation-Aware One-Shot Pruning of LLMs across Granularities", in Proceedings of the IEEE International Conference on Data Mining (ICDM 2026), 2026, Shenyang, China. (To appear) <br />
 * **Lu Sun**, Rui Wen, Jiayang Liu and Jun Sakuma, "Input-Adaptive Depth Routing in Pretrained Large Language Models with Mixture of Layers", in Proceedings of the IEEE International Conference on Data Mining (ICDM 2026), 2026, Shenyang, China. (To appear) <br />
 * **Lu Sun** and Jun Sakuma, "Learning Local Feature Masks with Variational Information Bottleneck", in Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026), 2026, Bremen, Germany. <br />
